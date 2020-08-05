@@ -10,7 +10,7 @@ installation command for tremux:
 4) pkg install python2
 5) git clone https://github.com/7azabet/light-hash
 6) cd light-hash
-7) ls
+7) chmod +x *
 ______________
 run command:
 
@@ -21,7 +21,7 @@ installation for Linux:
 
 1) git clone https://github.com/7azabet/light-hash
 2) cd light-hash
-3) ls
+3) chmod +x *
 __________________
 run command:
 python3 light-hash.py
