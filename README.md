@@ -4,13 +4,13 @@ This tool is used to make hash to any type of data and very useful to encrypt st
 Usage:
 installation command for tremux:
 
-pkg update && pkg upgrade
-pkg install git
-pkg install python
-pkg install python2
-git clone https://github.com/7azabet/light-hash
-cd light-hash
-ls
+1) pkg update && pkg upgrade
+2) pkg install git
+3) pkg install python
+4) pkg install python2
+5) git clone https://github.com/7azabet/light-hash
+6) cd light-hash
+7) ls
 ______________
 run command:
 
@@ -18,9 +18,10 @@ python3 light-hash.py
 ________________________
 
 installation for Linux:
-git clone https://github.com/7azabet/light-hash
-cd light-hash
-ls
+
+1) git clone https://github.com/7azabet/light-hash
+2) cd light-hash
+3) ls
 __________________
 run command:
 python3 light-hash.py
